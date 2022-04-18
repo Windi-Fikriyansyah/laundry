@@ -1,0 +1,9 @@
+(untuk akses admin)
+Username : admin
+Password : 123456
+
+
+(untuk akses Owner)
+
+Username : owner
+Password : 123456
